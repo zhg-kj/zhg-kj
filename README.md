@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Kai. Great to meet you :sunglasses:.
-### Check out my website if you're interested in reading more about my projects (or me!) :point_right: kaijun.netlify.app :point_left:
+### Check out my website if you're interested in reading more about my projects (or me!) :point_right: [kaijun.netlify.app](https://kaijun.netlify.app/) :point_left:
 
 
 <!--
