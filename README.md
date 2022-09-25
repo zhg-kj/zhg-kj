@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Kai. Great to meet you :sunglasses:.
+### Check out my website if you're interested in reading more about my projects (or me!) :point_right: kaijun.netlify.app :point_left:
+
 
 <!--
 **zhg-kj/zhg-kj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
