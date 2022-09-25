@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Kai. Great to meet you :sunglasses:.
+### Hi there 👋 I'm Kai. Great to meet you :smirk:.
 Check out my website if you're interested in reading more about my projects (or me!) :point_right: [kaijun.netlify.app](https://kaijun.netlify.app/)
 
 
